@@ -1,0 +1,6 @@
+{
+  "zero_shot_base": 0.54,
+  "zero_shot_chat": 0.58,
+  "golden_icl": 0.92,
+  "icm": 0.87
+}
