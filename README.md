@@ -44,6 +44,3 @@ Outputs:
 - `results.json`
 - `truthfulqa_bars.png`
 
-# ICM
-# ICM
-# ICM
